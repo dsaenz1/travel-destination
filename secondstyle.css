@@ -34,7 +34,7 @@ h1{
 header{
 	margin: 0 auto;
 	height: 100vh;
-	background-image: url(../images/pic4.jpg);
+	background-image: url(images/pic4.jpg);
   /*background-image: url(../images/pic4.jpg);*/
   /*linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,0.7)), */
 	background-size: cover;
